@@ -30,4 +30,4 @@ I enjoy working closely with teams to create meaningful solutions and tackle cha
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-bordage-030811134/)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@bordage.mickael)
-[![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mb2devs.com/blog/)
+[![Blog](https://img.shields.io/badge/Blog-7611a6?style=for-the-badge&logo=dev.to&logoColor=white)](https://www.mb2devs.com/blog/)

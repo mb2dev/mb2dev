@@ -28,6 +28,11 @@ I enjoy working closely with teams to create meaningful solutions and tackle cha
 [![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/)
 
 
+### 📊 Stats
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/mb2dev?cardType=level&theme=dark&preferLogin=false)](https://git.io/awesome-stats-card)
+
+
 ### 🔗 Social
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mickael-bordage-030811134/)

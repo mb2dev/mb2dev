@@ -8,7 +8,7 @@ I’m an engineering leader and developer based in Paris, driven by curiosity an
 I enjoy working closely with teams to create meaningful solutions and tackle challenges with a mix of technical expertise and teamwork.
 
 - 💻 Passionate about coding and open-source
-- 🔭 You can visit my personal website at **[mb2devs.com](https://mb2devs.com)**
+- 🔭 You can visit my personal website at **[mb2devs.com](https://www.mb2devs.com/)**
 - 📫 Reach me at **[contact@mb2devs.com](mailto:contact@mb2devs.com)**
 - 🎯 Goal for 2025: **Contribute more to open-source projects and continue writing technical articles.**
 
